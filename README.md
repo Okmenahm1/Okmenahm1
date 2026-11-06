@@ -37,7 +37,6 @@
 | [Landproject](https://github.com/Okmenahm1/Landproject) | Land Registry & Management Info System (land application management) | FastAPI · MongoDB · JavaScript |
 | [TensorFlow Lite Prototype](https://github.com/Okmenahm1/TensorFlow-lite-Prototype) | On-device ML prototype | C++ · TensorFlow Lite |
 | [News Headline Classifier](https://github.com/Okmenahm1/news-headline-classifier) | Classifies news headlines by category with ML | Python |
-| [forage-midas](https://github.com/Okmenahm1/forage-midas) | JPMorgan Chase Advanced Software Engineering program | Java · Spring Boot |
 
 ---
 
