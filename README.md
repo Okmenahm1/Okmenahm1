@@ -26,7 +26,6 @@
 | Certification | Issuer | Date |
 |---------------|--------|------|
 | CCNA (Cisco Certified Network Associate) Training | Hope International | May 2026 – Jul 2026 |
-| JPMorgan Chase Advanced Software Engineering Virtual Experience | Forage | 2025 |
 
 ---
 
